@@ -2,7 +2,7 @@
 
 - I designed a simple screen while learning step-based instructions.
 
-- If you want to try it, you can check this repo: <a href="https://github.com/badrinathvm/StepperView">Twitter</a>://github.com/badrinathvm/StepperView
+- If you want to try it, you can check this repo: <a href="https://github.com/badrinathvm/StepperView">Repo</a>://github.com/badrinathvm/StepperView
 
 # Screenshot 
 
